@@ -1,12 +1,6 @@
 #include<iostream>
 using namespace std;
 
-
-
-
-
-
-
 void sort(int [] , int ); // Prototype 
 void binarysearch(int [] , int, int); // Prototype
 
@@ -65,3 +59,4 @@ void binarysearch(int arr[] , int size, int target)
 	}
 	cout<<"Sorry, Element Not Found!"<<endl;
 }
+
